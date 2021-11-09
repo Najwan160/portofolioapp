@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PortofolioApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="flutter">Flutter</string>
+    <string name="android">Android</string>
+    <string name="experience">Experience</string>
+    <string name="ui_ux">UI/UX</string>
+    <string name="career">Student at SMK IDN Boarding School</string>
+    <string name="setting">Setting</string>
+    <string name="content_tentang">A High School Student. Studying at SMK IDN Boarding School Majoring Software Engineering who learning Software Development such as Android Development. Web Development also iOS Development and UI/UX as well. </string>
+    <string name="tentang">About</string>
+    <string name="edi_sunardi">Muhammad Najwan Latief</string>
+    <string name="app_android_btn">%s App Android</string>
+    <string name="documentation_link">Documentation Link</string>
+</resources>
